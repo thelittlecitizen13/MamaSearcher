@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thelittlecitizen13\\Desktop\\מסמכי קורס\\תרגילים\\Dev Fundamentals\\Evens and Delegates\\MamaSearcher\\MamaSearcher\\MamaSearcher.csproj",
+      "projectUniqueName": "C:\\Code\\Events and Delegates\\MamaSearcher\\MamaSearcher\\MamaSearcher.csproj",
       "projectName": "MamaSearcher",
-      "projectPath": "C:\\Users\\thelittlecitizen13\\Desktop\\מסמכי קורס\\תרגילים\\Dev Fundamentals\\Evens and Delegates\\MamaSearcher\\MamaSearcher\\MamaSearcher.csproj",
+      "projectPath": "C:\\Code\\Events and Delegates\\MamaSearcher\\MamaSearcher\\MamaSearcher.csproj",
       "packagesPath": "C:\\Users\\thelittlecitizen13\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thelittlecitizen13\\Desktop\\מסמכי קורס\\תרגילים\\Dev Fundamentals\\Evens and Delegates\\MamaSearcher\\MamaSearcher\\obj\\",
+      "outputPath": "C:\\Code\\Events and Delegates\\MamaSearcher\\MamaSearcher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thelittlecitizen13\\AppData\\Roaming\\NuGet\\NuGet.Config",
